@@ -1,0 +1,51 @@
+customerID,tenure,Contract,MonthlyCharges,TotalCharges,Churn
+C00001,5,Month-to-month,50.0,250.0,0
+C00002,12,One year,70.0,840.0,1
+C00003,24,Two year,90.0,2160.0,0
+C00004,8,Month-to-month,60.0,480.0,0
+C00005,15,Two year,80.0,1200.0,1
+C00006,3,Month-to-month,45.0,135.0,0
+C00007,36,Two year,100.0,3600.0,0
+C00008,7,Month-to-month,55.0,385.0,1
+C00009,20,One year,75.0,1500.0,0
+C00010,9,Month-to-month,65.0,585.0,1
+C00011,30,Two year,95.0,2850.0,0
+C00012,16,One year,85.0,1360.0,0
+C00013,4,Month-to-month,48.0,192.0,1
+C00014,10,One year,72.0,720.0,0
+C00015,21,Two year,88.0,1848.0,1
+C00016,14,Month-to-month,58.0,812.0,0
+C00017,26,Two year,92.0,2392.0,0
+C00018,18,One year,78.0,1404.0,1
+C00019,11,Month-to-month,68.0,748.0,0
+C00020,22,Two year,86.0,1892.0,1
+C00021,2,Month-to-month,40.0,80.0,0
+C00022,32,Two year,98.0,3136.0,0
+C00023,13,One year,82.0,1066.0,0
+C00024,6,Month-to-month,52.0,312.0,1
+C00025,28,Two year,94.0,2632.0,0
+C00026,19,One year,80.0,1520.0,0
+C00027,17,Month-to-month,70.0,1190.0,0
+C00028,23,Two year,90.0,2070.0,1
+C00029,1,Month-to-month,42.0,42.0,0
+C00030,33,Two year,96.0,3168.0,0
+C00031,29,One year,84.0,2436.0,0
+C00032,27,Month-to-month,72.0,1944.0,0
+C00033,25,Two year,92.0,2300.0,0
+C00034,35,One year,86.0,3010.0,0
+C00035,31,Month-to-month,74.0,2294.0,1
+C00036,34,Two year,98.0,3332.0,0
+C00037,4,Month-to-month,48.0,192.0,0
+C00038,12,One year,72.0,864.0,1
+C00039,24,Two year,90.0,2160.0,0
+C00040,8,Month-to-month,60.0,480.0,1
+C00041,15,Two year,80.0,1200.0,0
+C00042,3,Month-to-month,45.0,135.0,0
+C00043,36,Two year,100.0,3600.0,0
+C00044,7,Month-to-month,55.0,385.0,1
+C00045,20,One year,75.0,1500.0,0
+C00046,9,Month-to-month,65.0,585.0,1
+C00047,30,Two year,95.0,2850.0,1
+C00048,16,One year,85.0,1360.0,0
+C00049,4,Month-to-month,48.0,192.0,1
+C00050,10,One year,72.0,720.0,0
